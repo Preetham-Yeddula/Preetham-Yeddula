@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Preetham Yeddula👋🤓</h2>
+<h2 align="center">Hello there! My name is Preetham Yeddula 🤓😁</h2>
 
 
 ## 📈 My GitHub Stats
